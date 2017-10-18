@@ -4,6 +4,6 @@
 
 All the functions are encapsulated into *.py* file.
 
-Every time you run the codes the result will be different with the former ones, because of the effect of crossover and mutation.
+*OneofResults.txt* is the result after one running. Note that every time you run the codes the result will be different with the former ones, because of the effect of crossover and mutation.
 
 Thank you for browsing, if there is anything wrong please feel free to correct it.
